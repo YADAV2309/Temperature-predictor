@@ -1,7 +1,7 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "You can access the above weather app using the given link: https://shiva2000-weather-application.herokuapp.com/",
+  "description": "You can access the above weather app using the given link: https://yadavritik-temperature-app.herokuapp.com/",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js"
